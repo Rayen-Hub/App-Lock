@@ -1,9 +1,11 @@
 # App-Lock
 FEATURES
-* Can add multiple android apps to lock
+* Can lock & unlock multiple android apps
+* App notifications
 * Pattern lock
-* Simple & User-Friendly app
+* Simple & user-friendly app
 
-SPECIFICATION
-* Language: Java
+SPECIFICATIONS
+* Front-end: Android GUI
+* Back-end: Java
 * Tool: Android Studio
